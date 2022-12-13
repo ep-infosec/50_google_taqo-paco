@@ -1,0 +1,67 @@
+PODS:
+  - flutter_local_notifications (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - macos_launch_daemon (0.0.1):
+    - FlutterMacOS
+  - path_provider_macos (0.0.1):
+    - FlutterMacOS
+  - sqflite (0.0.2):
+    - FlutterMacOS
+    - FMDB (>= 2.7.5)
+  - taqo_email_plugin (0.0.1):
+    - FlutterMacOS
+  - taqo_time_plugin (0.0.1):
+    - FlutterMacOS
+  - url_launcher_macos (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - flutter_local_notifications (from `Flutter/ephemeral/.symlinks/plugins/flutter_local_notifications/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - macos_launch_daemon (from `Flutter/ephemeral/.symlinks/plugins/macos_launch_daemon/macos`)
+  - path_provider_macos (from `Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos`)
+  - sqflite (from `Flutter/ephemeral/.symlinks/plugins/sqflite/macos`)
+  - taqo_email_plugin (from `Flutter/ephemeral/.symlinks/plugins/taqo_email_plugin/macos`)
+  - taqo_time_plugin (from `Flutter/ephemeral/.symlinks/plugins/taqo_time_plugin/macos`)
+  - url_launcher_macos (from `Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos`)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+
+EXTERNAL SOURCES:
+  flutter_local_notifications:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_local_notifications/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  macos_launch_daemon:
+    :path: Flutter/ephemeral/.symlinks/plugins/macos_launch_daemon/macos
+  path_provider_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_macos/macos
+  sqflite:
+    :path: Flutter/ephemeral/.symlinks/plugins/sqflite/macos
+  taqo_email_plugin:
+    :path: Flutter/ephemeral/.symlinks/plugins/taqo_email_plugin/macos
+  taqo_time_plugin:
+    :path: Flutter/ephemeral/.symlinks/plugins/taqo_time_plugin/macos
+  url_launcher_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/url_launcher_macos/macos
+
+SPEC CHECKSUMS:
+  flutter_local_notifications: 3805ca215b2fb7f397d78b66db91f6a747af52e4
+  FlutterMacOS: 57701585bf7de1b3fc2bb61f6378d73bbdea8424
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  macos_launch_daemon: a5ca0592cf84a392e386c45492f1b9c2c3a5c40e
+  path_provider_macos: a0a3fd666cb7cd0448e936fb4abad4052961002b
+  sqflite: a5789cceda41d54d23f31d6de539d65bb14100ea
+  taqo_email_plugin: 26d4111d68c90dcf333c186a9fcacc7022942097
+  taqo_time_plugin: 8443f93d83f506e56933b036da873c58fa9616f6
+  url_launcher_macos: 45af3d61de06997666568a7149c1be98b41c95d4
+
+PODFILE CHECKSUM: 6eac6b3292e5142cfc23bdeb71848a40ec51c14c
+
+COCOAPODS: 1.10.1

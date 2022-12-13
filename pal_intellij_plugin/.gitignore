@@ -1,0 +1,5 @@
+.gradle
+.idea
+artifacts
+build
+product-matrix.json
